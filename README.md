@@ -1,4 +1,3 @@
-# PHP-CRUD-with-search
 <h1 align="center" >CRUD em PHP usando Bootstrap</h1>
 
 
