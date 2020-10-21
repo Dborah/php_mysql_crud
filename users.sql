@@ -39,15 +39,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `useremail`, `userphone`, `dt`) VALUES
-(1, 'Zaid Khalid', 'zaid@gmail.com', '876-564-6544', '2019-02-12 06:22:25'),
-(2, 'Usman', 'usman@gmail.com', '887-655-8745', '2019-02-12 06:22:43'),
-(3, 'Jhon', 'jhon@gmail.com', '878-874-6523', '2019-02-12 06:22:57'),
-(4, 'Zohaib', 'zohaib@gmail.com', '878-652-6985', '2019-02-12 06:23:20'),
-(5, 'Akram', 'akram@gmail.com', '324-985-3214', '2019-02-12 06:23:36'),
-(6, 'Aslam', 'aslam@gmail.com', '777-874-8569', '2019-02-12 06:23:56'),
-(7, 'Daood', 'daood@gmail.com', '666-123-5412', '2019-02-12 06:24:19'),
-(8, 'Henary', 'henary@gmail.com', '234-236-1254', '2019-02-12 06:32:48'),
-(9, 'Mark Jhon', 'mjhon@gmail.com', '324-569-3652', '2019-02-12 06:33:06');
+(1, 'Cilano', 'cilano@gmail.com', '(32)923232-3232', '2020-09-21 20:22:25');
 
 --
 -- Indexes for dumped tables
